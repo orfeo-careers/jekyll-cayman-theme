@@ -6,29 +6,33 @@ categories: main
 ---
 
 ## ORFEO Soundworks 신입 사원 채용
-저희는 소음환경에서 깨끗한 음성통화와 음성인식을 제공하는 유일무이한 헤드셋을 제작합니다.  
-스타트업으로 이례적인 Naver, LINE의 20억 투자를 유치했습니다.  
+저희는 소음환경에서 깨끗한 통화와 음성인식을 제공하는 유일무이한 헤드셋을 제작합니다.  
+스타트업으로 이례없는 금액의 투자 유치를 성공시켰습니다.  
 모든 지표가 아름다운 상승곡선을 그리고 있는 중입니다.  
 현재 5명의 인원들이 세상에 없던 제품을 만들고 있는 중입니다.  
-저희는 Noise Blocking을 필요로 하는 수많은 곳에 전파하기 위해 뛰어난 엔지니어가 필요합니다.  
-저희는 세계 최고의 Noise Blocking 기술을 함께 만들어갈 엔지니어들을 모시고 있습니다.  
-　  
- 
+저희는 Noise Blocking을 필요로 하는 수많은 곳에 전파하려고 합니다.  
+ORFEO의 기술 역량을 강화하고 넓은 곳에 전파하기 위해 뛰어난 인재가 많이 필요합니다.  
+ORFEO는 유일무일한 기술을 함께 만들어가실 엔지니어를 모시고 있습니다.  
+
 ## 채용 분야
 * Software Engineer - F/W, Bluetooth, Audio, MCU  
-
-
-
 
 ## 자격 요건
 * 전공 무관  
   		
 ## 커리어 로드맵
-* F/W Validation, MMI 설계, CSR Bluecore 학습과 같은 기본적인 업무부터 시작합니다.
-* F/W Customizing, Signal Processing, Mobile APP 등 희망하는 전문 분야로 성장하실 수 있습니다.  
+* 기본적인 업무부터 시작합니다.
+  * F/W Validation
+  * MMI 설계
+  * ARM Cortex M Series, CSR Bluecore 학습
+* 희망하시는 전문 분야로 성장하실 수 있습니다.
+  * F/W Customizing
+  * Signal Processing
+  * MCU 설계
+  * Android, iOS APP
   
 ## 우대 사항
-* 주어진 미션에 대해 능동적으로 해결할 수 있는 엔지니어를 선호 합니다.
+* 주어진 미션에 대해 능동적으로 해결할 수 있는 엔지니어를 선호합니다.
 * 공모전 입상 경험
 * 신호처리 또는 영상처리 경험
 * CSR BlueCore 경험  
