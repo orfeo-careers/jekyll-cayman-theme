@@ -12,11 +12,12 @@ categories: main
 현재 5명의 인원들이 세상에 없던 제품을 만들고 있는 중입니다.  
 저희는 Noise Blocking을 필요로 하는 수많은 곳에 전파하기 위해 뛰어난 엔지니어가 필요합니다.  
 저희는 세계 최고의 Noise Blocking 기술을 함께 만들어갈 엔지니어들을 모시고 있습니다.  
-  
-  
+
+
 ## 채용 분야
 * Software Engineer - F/W, Bluetooth, Audio, MCU  
-  
+
+
 ## 자격 요건
 * 전공 무관  
   		
