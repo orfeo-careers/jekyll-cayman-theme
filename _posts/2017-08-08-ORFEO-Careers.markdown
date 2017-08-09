@@ -72,7 +72,9 @@ ORFEO는 자사 기술을 함께 만들어가실 엔지니어를 모시고 있�
 ## 기타
 * 채용 과정 이후 개인 정보는 즉시 파기됩니다.
 * 모든 과정에 대한 결과는 채용 여부와 관계없이 1주일 이내 알려드립니다.  
+* 문의 : kyle@orfeosound.com   
   
-
+  
+  
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
