@@ -14,7 +14,7 @@ categories: main
 ORFEO는 자사 기술을 함께 만들어가실 엔지니어를 모시고 있습니다.  
 
 ## 채용 분야
-* Software Engineer - F/W, Bluetooth, Audio, MCU  
+* Software Engineer - F/W, OTA, Bluetooth, Audio, MCU  
 
 ## 자격 요건
 * 전공 무관  
@@ -26,8 +26,8 @@ ORFEO는 자사 기술을 함께 만들어가실 엔지니어를 모시고 있�
   * ARM Cortex M Series, CSR Bluecore 학습
 * 희망하시는 전문 분야로 성장하실 수 있습니다.
   * F/W Customizing
+  * OTA (Over The Air)
   * Signal Processing
-  * MCU 설계
   * Android, iOS APP
   
 ## 우대 사항
@@ -57,6 +57,7 @@ ORFEO는 자사 기술을 함께 만들어가실 엔지니어를 모시고 있�
   
 ## 채용 일정
 * 채용기간 : 상시 채용
+* 채용인원 : 0명
 * 인턴기간 : 3개월 이후 정식 입사
   
 ## 근무 환경
